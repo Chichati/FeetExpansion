@@ -1,0 +1,153 @@
+{
+  "name": "Elf",
+  "IDname": "Elf",
+  "gender": "Addition",
+  "tags": "none",
+  "skillList": [ "Elven Footjob","Foot Tease", "Face Step" , "Elven Tactics" , "Foot Trample", "Elven Tactics" , "Elven Tactics"],
+  "perks": [ ""],
+  "ItemDropList": [],
+
+  "combatDialogue": [
+                      {
+                            "lineTrigger": "UsesMove",
+                          "move": "Elven Footjob",
+                          "theText": [ "'Let me show you what I can do'", "Elven Footjobs will make you cum everything!"]
+                      },
+
+                      {
+                          "lineTrigger": "UsesMove",
+                          "move": "Face Step",
+                          "theText": [ "'Are you enjoying this,Human?'",
+                            "'Lick my soles, Human!'",
+                            "'Smell my sweaty feet!'",
+                            "'Inhale my scent, Human!'"]
+
+                      },
+                      {
+                            "lineTrigger": "UsesMove",
+                          "move": "Elven Tactics",
+                          "theText": [ "'Catch me if you can'",
+                          "'I will call for reinforcements'"]
+                      },
+                      {
+                            "lineTrigger": "UsesMove",
+                          "move": "Foot Tease",
+                          "theText": [ "'Humans are such perverts'","'What are you staring at? ♥ '","'Do you want to lick my feet? ♥'"]
+                      },
+
+                      {
+                       "lineTrigger":"OnPlayerOrgasm",
+                       "move": "Elven Footjob",
+                       "theText":["|f|CallCombatEventAndScene|/|FootOrgasmEvents|/|ElvenFootjob|n||c|"]
+                       },
+                       {
+                        "lineTrigger":"OnPlayerOrgasm",
+                        "move": "Face Step",
+                        "theText":["|f|CallCombatEventAndScene|/|FootOrgasmEvents|/|FaceStep|n||c|"]
+                        },
+                        {
+                         "lineTrigger":"OnPlayerOrgasm",
+                         "move": "Foot Tease",
+                         "theText":["|f|CallCombatEventAndScene|/|FootOrgasmEvents|/|FootTease|n||c|"]
+                         },
+                         {
+                          "lineTrigger":"OnPlayerOrgasm",
+                          "move": "Foot Trample",
+                          "theText":["|f|CallCombatEventAndScene|/|FootOrgasmEvents|/|FootTrample|n||c|"]
+                          },
+
+
+
+                      {
+                           "lineTrigger":"StanceStruggle",
+                           "move": "Footjob",
+                           "theText":["{ThePlayerName} tries to push away the Elf's firmly placed foot"]
+                       },
+                       {
+                           "lineTrigger":"StanceStruggleFail",
+                           "move": "Footjob",
+                           "theText":["But she keeps her strong foot on {ThePlayerName}'s dick, making {TargetHimOrHer} squirm in pleasure!",
+                                       "But as you push away, you find yourself getting more aroused from the movement, and you can't stop yourself from pulling her foot back.",
+                                       "But as you start to push away, she keeps her foot firmly placed on your shaft, and increses the pressure causing you to stop pushing from the stimulation."]
+                       },
+                       {
+                           "lineTrigger":"StanceStruggleComment",
+                           "move": "Footjob",
+                           "theText":["",
+                                       "'Nice try ♥ '",
+                                       "'You are enjoying this too much♥",
+                                       "'Aren't my feet amazing?♥'"]
+                       },
+                       {
+                           "lineTrigger":"StanceStruggleFree",
+                           "move": "Footjob",
+                           "theText":["And manage to push away her feet!",
+                                     "And free yourself from the Elf's nimble footjob!"]
+                       },
+                       {
+                           "lineTrigger":"StanceStruggleFreeComment",
+                           "move": "Footjob",
+                           "theText":["'Didn't you want this?'",
+                                     "'Aww... Are you sure you want to stop?'",
+                                     "'You want more, don't you?'",
+                                     ""]
+                       }
+
+
+                  ],
+"lossScenes": [
+                                    {
+                                        "NameOfScene": "Foot scene 1",
+                                        "move": "",
+                                        "stance": "Footjob",
+                                        "includes": [ "Elf"],
+                                        "theScene": [ "You start to black out",
+                                            "Speaks",
+                                            "I got so lucky I found such a pervert, ♥ I will have some more fun with you back at home ♥",
+                                            "After those words,she gently lifts you up and starts carrying you to her base.",
+                                            "You suddenly wake up at the felling of her toes entering your mouth",
+                                            "Speaks",
+                                            "Let's see if you like the taste of elven aphrodisiac ♥",
+                                            "As you hear those words you notice the pungent taste overwhelming your brain and your dick gets hard instantly",
+                                            "She giggles at the scene and slowly starts stroking you with her other foot",
+                                            "Speaks",
+                                            "Fufufu...How can you be so hard already?",
+                                            "An intense feeling builds up inside you insanely fast and cum shortly after she starts playing with your dick.But you can't even beg for her to stop because her foot is gagging you ",
+                                            "Speaks",
+                                            "Humans can't resist this aphrodisiac, you will stay hard for quite a while, which means that you will be good and cum alot for me, right?♥",
+                                            "She presses on your aching cock and continues to milk you with her nimble toes until you faint again ",
+                                            "ChangeFetish", "Feet", "5",
+                                            "ChangeSensitivity",
+                                            "Sex",
+                                            "5"
+                                                ],
+                                        "picture": ""
+                                    },
+                                    {
+                                        "NameOfScene": "Foot scene 2",
+                                        "move": "",
+                                        "stance": "Footjob",
+                                        "includes": [ "Elf", "Elf"],
+                                        "theScene": [
+                                                     "You lay on the ground gasping for air,but suddenly you are interrupted by the elf",
+                                                     "Speaks",
+                                                     "Fufufu.. You can still cum, right♥?",
+                                                     "She coats her foot with more aphrodisiac and shoves it in your face,forcing you to inhale and draw in most of her vapour until your head starts spinning and your dick starts throbbing.",
+                                                     "The other elf sandwiches your aching manhood between her long feet and starts to move slowly,incresing the pressure as she goes down your shaft,and decreasing it as she touches your tip.This unusual feeling builds up a very strong need to ejaculate.",
+                                                     "Speaks",
+                                                     "Go on, spurt out everything you have",
+                                                     "While you try to resist as much as you can,the elf pushes her foot into your mouth,obliging you to absorb all the aphrodisiac.The suprising sudden agressiveness of the elf gets your guard down while a sudden wave of pleasure flows over your body.You orgasm,shooting white ropes onto the other elf's long feet.You shake for a while before fainting.",
+                                                     "Speaks",
+                                                     "I told you to use a diluited dose of the aphrodisiac,now he's broken.Atleast he will get addicted and come for more...",
+
+                                                    "ChangeFetish", "Feet", "10",
+                                                    "ChangeSensitivity",
+                                                    "Sex",
+                                                    "5"
+                                                  ],
+                                        "picture": ""
+                                    }
+              ],
+"victoryScenes":[],
+"pictures":[]
+}

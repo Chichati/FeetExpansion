@@ -1,0 +1,76 @@
+{
+    "name": "FootOrgasmEvents",
+    "CardType": "",
+    "CardLimit": "0",
+    "Description": "",
+    "requires": [ ""],
+    "Speakers": [
+                  {
+                    "name": "Elf",
+                    "postName": "",
+                    "SpeakerType": "Monster"
+                  }
+                ],
+    "EventText": [
+
+                      {
+                          "NameOfScene": "ElvenFootjob",
+                          "theScene": [  "IfPlayerHasStances", "Footjob", "Footjob", "EndLoop", "ElfFootDuoOrgasm",
+                                        "SwapLineIf", "Random",
+                                          "The elf speeds up her nimble footjob and makes you cum in seconds. {PlayerOrgasmLine}",
+                                          "Her skillful footjob leaves you trembling and wanting more as you orgasm.{PlayerOrgasmLine}",
+
+                                       "EndLoop"
+                                    ]
+                      },
+                      {
+                          "NameOfScene": "ElvenSingleFootjob",
+                          "theScene": [
+                                        "SwapLineIf", "Random",
+                                          "The elf speeds up her nimble footjob and makes you cum in seconds. {PlayerOrgasmLine}",
+                                          "Her skillful footjob leaves you trembling and wanting more as you orgasm.{PlayerOrgasmLine}",
+
+                                       "EndLoop"
+                                    ]
+                      },
+                      {
+                          "NameOfScene": "FaceStep",
+                          "theScene": [
+                                          "SwapLineIf", "Random",
+                                          "You can't resist anymore and give in into the temptation,losing your mind to the elf's bare soles{PlayerOrgasmLine}",
+                                          "The aphrodisiac melts your mind and you orgasm.{PlayerOrgasmLine}",
+
+                                       "EndLoop"
+                                    ]
+                      },
+                      {
+                          "NameOfScene": "FootTease",
+                          "theScene": [
+                                          "SwapLineIf", "Random",
+                                          "You stare into the elf's bare foot and start masturbating until you cum{PlayerOrgasmLine}",
+                                          "The teasing of the elf's bare sole sends you into a bliss,without even noticing when you came.{PlayerOrgasmLine}",
+
+                                       "EndLoop"
+                                    ]
+                      },
+                      {
+                          "NameOfScene": "FootTrample",
+                          "theScene": [
+                                          "SwapLineIf", "Random",
+                                          "The pain mixes with the pleasure and you cum.{PlayerOrgasmLine}",
+                                          "Her sole tramples you hard but instead of feeling pain you feel pleasure and orgasm.{PlayerOrgasmLine}",
+
+                                       "EndLoop"
+                                    ]
+                      },
+                      {
+                          "NameOfScene": "ElfFootDuoOrgasm",
+                          "theScene": [ "ChangeImageLayer", "Expression", "ElfExpressionGoesHere",
+                                        "SwapLineIf", "Random",
+                                          "|n|Pervert.|n|So easy.{PlayerOrgasmLine}",
+                                          "|n|I can't believe he came from this.|n|such a pervert.{PlayerOrgasmLine}"
+
+                                    ]
+                      }
+                    ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Imp",
+  "IDname": "Imp",
+  "gender": "Addition",
+  "tags": "none",
+  "skillList": [ "Impish Foot Stroke","Stocking Lick","Magic Sweep","Magic Sweep","Impish Footjob","Impish Footjob","Impish Footjob","Impish Foot Tease","Impish Double Footjob","Impish Double Footjob","Impish Double Footjob"],
+  "perks": [ ""],
+  "ItemDropList": [],
+
+  "combatDialogue": [
+                      {
+                          "lineTrigger": "UsesMove",
+                          "move": "Impish Foot Tease",
+                          "theText": [ "Do you actually like this?"],
+
+                          "lineTrigger": "UsesMove",
+                          "move": "Impish Foot Stroke",
+                          "theText": [ "Are you enjoying it?"]
+                      }
+
+                  ],
+"lossScenes": [
+                                    {
+                                        "NameOfScene": "Foot scene",
+                                        "move": "",
+                                        "stance": "Footjob",
+                                        "includes": [ "Imp"],
+                                        "theScene": [ "the imp milks you senseless with her feet!"],
+                                        "picture": ""
+                                    }
+              ],
+"victoryScenes":[],
+"pictures":[]
+}
